@@ -1,7 +1,7 @@
 # H4H-individuality-identifiability
 
 ## Repository Overview
-This repository contains all the code and plots generated using synthetic data for the manuscript:
+This repository contains all the code and plots generated using synthetic data to mimic the results of the manuscript:
 
 **"Individuality and information content of infrared molecular profiles: insights from a large longitudinal health-profiling study"**
 
